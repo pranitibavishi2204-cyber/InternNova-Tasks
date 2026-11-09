@@ -1,0 +1,16 @@
+InternNova Internship Assignment
+
+Task 1: Git and GitHub Basics
+
+1. Git installed successfully.
+2. GitHub account created.
+3. New repository created.
+4. Repository cloned to lovalm system.
+5. Git username and email configured.
+
+Tools used:
+- Git
+- GitHub
+- Windows Command Prompt
+
+Status: Completed
